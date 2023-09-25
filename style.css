@@ -1,0 +1,294 @@
+/* menu st */
+.h_menu{
+    font-size: 16px;
+    font-weight: 600;
+    color:#000;
+}
+.h_menu :hover{
+    color: brown;
+}
+ /* menu */
+ .btn_h {
+    width: 98px;
+    height: 50px;
+    font-size: 12px;
+    float: right;
+   
+}
+/* .h_h6{
+    padding-left: 50px;
+    font-weight: 200;
+    width: 120px;
+    font-size: 16px;
+    float: left;
+} */
+/* .i{
+    float: left;
+}
+.p{
+    float: right;
+} */
+ 
+/* menu end */
+
+
+/* baner */
+.banner{
+    color:#fff
+}
+.b_m{
+    margin-right: 50px;
+}
+.b_text1{
+    padding-top: 200px;
+}
+.b_text2{
+    font-size: 55px;
+    font-weight: 700;
+}
+.b_text3{
+    padding-bottom: 20px;
+}
+.b_text4{
+    
+}
+.b_icon{}
+.bi_icon{
+    padding-right: 10px;
+}
+/* from */
+.f_form{
+    background-color: #fff ;opacity:0.8;
+    
+    color: #000;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+
+    
+}
+.ff_section{
+    padding: 50px 50px;
+}
+/* form */
+.b_form{
+    margin: 10px 50px;
+}
+.f_form{
+
+}
+/* patner */
+.p_img{
+    
+}
+.p_img :hover{
+    color: gray;
+}
+.patner{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.p_r{
+    padding-top: 50px;
+}
+.p_t{
+    color: gray;
+}
+/* customer */
+.c_section{
+    background-color: brown;
+    padding: 40px 0;
+}
+.c_item1{
+    float: left;
+    width: 49%;
+    background-color: #fff;
+    padding: 30px 30px;
+    border-radius: 10px;
+    
+}
+.c_item2{
+    float: right;
+    width: 49%;
+    background-color: #fff;
+    padding: 30px 30px;
+    border-radius: 10px;
+}
+.customer1{
+    background-color: brown;
+  
+    
+}
+.c_h6{
+    color: #fff;
+}
+.c_h2{
+    color: #fff;
+}
+.c_icon{
+    color: yellow;
+}
+/* OUR SERVIES */
+.serves{
+    padding: 100px 0;
+}
+.s_head{
+    font-size: 16px;
+    font-weight: 400;
+}
+.s_head2{
+    font-size: 56px;
+    font-weight: 700;
+    padding-bottom: 50px;
+}
+.s_item{
+    border: solid 1px brown;
+    /* border-radius: 20px; */
+    width: 23%;
+    text-align: center;
+    margin: 10px 10px;
+    padding: 20px 10px;
+}
+.s_icon{
+    font-size: 100px;
+    color: brown;
+}
+.i_head{
+    font-size: 20px;
+    font-weight: 600;
+}
+.i_p{
+    font-weight: 400;
+    font-size: 18px;
+    color: #777777;
+}
+.s_btn{}
+
+/* about */
+.a_item1{
+    width: 48%;
+    margin: 10px 10px;
+    /* border: solid red 1px; */
+}
+.a_item2{
+    width: 48%;
+    margin: 10px 10px;
+}
+.a_p1{
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 60px;
+}
+.a_h2{
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+}
+.a_p2{
+    padding-bottom: 30px;
+}
+/*  zx */
+.all_item{
+    float: left;
+}
+.zx_item{
+    width: 20%;
+    text-align: center;
+    float: left;
+    padding: 50px 0;
+    border-bottom: dotted 2px brown;
+}
+.z_icon{
+    font-size: 100px;
+    color: brown;
+}
+.z_text{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* QUESTIONS */
+.QUESTIONS{
+    text-align: center;
+}
+.q_h6{
+    text-align: center;
+}
+.q_h1{
+    
+}
+/* get */
+.get{
+    background-color: brown;
+    padding: 100px 0;
+}
+.g_p{
+    font-size: 16px;
+    line-height:20px;
+    font-weight: 400;
+    color: #fff;
+}
+.g_h{
+    font-size: 56px;
+    line-height: 67px;
+    color: #fff;
+}
+.btna{
+    padding-top: 30px;
+    padding-left: 100px;
+}
+.btn_g{
+    background-color: #fff;
+    color: #000;
+    height: 90px;
+    width: 180px;
+    font-size: 20px;
+    font-weight: 700;
+   
+}
+.btn{
+    
+}
+
+/* footer */
+footer{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    /* background-color: #010101; */
+    
+   
+}
+.f_icon2{
+    font-size: 30px;
+    color: brown;
+}
+.f_p1{
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.f_1{
+
+}
+.f_1 img{
+
+}
+.f_1 address{
+    /* color: #fff; */
+}
+.f_2{}
+.f_2 p a{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+.f_i2{
+    font-size: 20px;
+    color: brown;
+    padding-right: 15px;
+}
+
+
